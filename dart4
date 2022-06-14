@@ -6,7 +6,7 @@ void main()
   print("Average of numbers from 1 to 10 using for loop");
   int sum = 0;
   double avg;
-  for(int i = 1; i < 10; i++ )
+  for(int i = 1; i <= 10; i++ )
   {
     sum = sum + i;
    }
