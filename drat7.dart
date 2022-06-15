@@ -34,7 +34,7 @@ void bubbleSort(List<int> a)
     }
     if (!swapped) 
     {
-      break; /* array has been sorted */
+      break;          /* array has been sorted */
     }
   }
 }
