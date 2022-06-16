@@ -1,4 +1,4 @@
-//Binary Search using classes in Dart
+//Binary Search to demonstrate lists and classes
 
 int binary_search(List a, int l, int r, int x) {
   if (r >= l) {
