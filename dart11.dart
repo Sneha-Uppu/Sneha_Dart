@@ -1,4 +1,4 @@
-// Dart Program to show Multiple Inheritance 
+// Interface in Dart or Multiple Inheritance
 
 void main(){
 
